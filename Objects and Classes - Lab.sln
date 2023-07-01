@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P3.Songs", "P3.Songs\P3.Son
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P4.Students", "P4.Students\P4.Students.csproj", "{8800110D-48A4-4D8E-8C54-C9B73A72B89A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5.Students2.0", "P5.Students2.0\P5.Students2.0.csproj", "{190E0D73-25DC-422B-9B35-8C2E20545156}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P5.Students2.0", "P5.Students2.0\P5.Students2.0.csproj", "{190E0D73-25DC-422B-9B35-8C2E20545156}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P6.StoreBoxes", "P6.StoreBoxes\P6.StoreBoxes.csproj", "{BE509005-2C87-48AB-BCF3-975CABD0DE88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P6.StoreBoxes", "P6.StoreBoxes\P6.StoreBoxes.csproj", "{BE509005-2C87-48AB-BCF3-975CABD0DE88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P7.VehicleCatalogue", "P7.VehicleCatalogue\P7.VehicleCatalogue.csproj", "{D7C00538-00B2-4E1A-99AB-8523407F0D14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{BE509005-2C87-48AB-BCF3-975CABD0DE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE509005-2C87-48AB-BCF3-975CABD0DE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE509005-2C87-48AB-BCF3-975CABD0DE88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C00538-00B2-4E1A-99AB-8523407F0D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C00538-00B2-4E1A-99AB-8523407F0D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C00538-00B2-4E1A-99AB-8523407F0D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C00538-00B2-4E1A-99AB-8523407F0D14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
